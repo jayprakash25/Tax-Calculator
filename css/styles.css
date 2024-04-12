@@ -1,0 +1,21 @@
+.cursor {
+  cursor: pointer;
+}
+
+.tool {
+  cursor: pointer;
+  position: absolute;
+  width: 1rem;
+  right: 10px;
+  top: 45%;
+  transform: translateY(-50%);
+}
+
+.select-tool {
+  cursor: pointer;
+  position: absolute;
+  width: 1rem;
+  right: 2.4rem;
+  top: 45%;
+  transform: translateY(-50%);
+}
